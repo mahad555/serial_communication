@@ -1,6 +1,5 @@
 ﻿
 
-[![Pub](https://img.shields.io/pub/v/serial_communication)]
 # Serial communication!
 An Android Plugin for Serial Communication
 This Plugin wants to provide a simple API to connect, read and write data through theses serial ports.
@@ -168,7 +167,7 @@ Any help from the open-source community is always welcome and needed:
 
     ## Maintainers 
 
--   [Mahad Asghar](https://github.com/felangel)
+-   [Mahad Asghar](https://github.com/Mahad61)
      
 
 
